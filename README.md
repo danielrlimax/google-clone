@@ -38,7 +38,8 @@ git clone https://github.com/danielrlimax/google-clone.git
 - [X] - Botões Centrais com efeitos hover
 - [X] - Footer duplo padrão Google
 - [X] - Links totalmente funcionais e corretos
-- []  - Refatoração e limpeza de código (Próximo passo)
+- [x] - Refatoração e limpeza de código
+- [x] - Responsividade
 
 ## Autor:
 ### Daniel de Lima - Estudante de ADS e Apaixonado por Front-End e Web Design
